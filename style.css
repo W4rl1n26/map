@@ -1,0 +1,16 @@
+
+h1{
+    margin: 0.8em auto;
+    text-align: center;
+    color: #223a6a;
+}
+
+#map { 
+    width: 80%;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 22px;
+    max-width: 500px;
+}
